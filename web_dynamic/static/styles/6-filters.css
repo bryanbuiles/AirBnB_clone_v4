@@ -68,21 +68,18 @@ button:hover {
   width: 0px;
 }
 
-.amenities .popover {
+.popover {
   padding: 10px 0;
   margin-left: -5px;
   margin-top: 0%;
 }
-.amenities .popover input {
+.popover input {
   margin-right: 10px;
 }
-.amenities .popover ul {
+.popover ul {
   margin: 0px;
 }
 
-.locations .popover {
-  margin-top: 0%;
-}
 .popover ul {
   list-style-type: none;
   padding-bottom: 10px;
